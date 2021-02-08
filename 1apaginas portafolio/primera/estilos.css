@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body {
+     max-width: 960px;
+     margin: 0 auto;
+     background-color: rgba(220, 198, 226, 0.822);
+ }
+
+h1 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: crimson;
+}
+h5 {
+    font-size: 18px;
+}
+.titulo-imagen {
+    text-align: center;  
+}
+
+.img {
+    width: 100%;
+    }
+
+.texto1 {
+    font-size: 16px;
+    font-family: cursive;
+    color: blue;
+    font-weight: bold;
+
+}
+
+.lugares {
+     float: left ;
+     width: 60%;
+}
+
+.titulo-lugares {
+    margin: 3px;
+    padding: 20px;
+
+}
+.tlugares {
+    font-weight: bold;
+    font-size: 16px;
+    margin: 3px;
+    padding: 20px;
+
+}
+
+li {
+    margin-left: 50px;
+    padding: 3px;
+
+}
+
+.pfinal{
+    margin: 10px;
+    padding: 30px;
+}
+
+.final {
+ text-align: center;
+ padding: 50px;   
+}
